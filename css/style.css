@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.text-container{
+    background-image: url(../images/cat-9.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    position: relative;
+}
+.text-wrap{
+    position: absolute;
+    bottom: 10px;
+    background-color: rgba(128, 128, 128, 0.384);
+}
+.gallery-wrap img{
+    height: 100%;
+}
